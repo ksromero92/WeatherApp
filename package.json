@@ -8,7 +8,7 @@
     "convert-units": "^2.3.4",
     "loadsh": "^0.0.4",
     "lodash.topairs": "^4.3.0",
-    "moment": "^2.25.1",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.28",
     "prop-types": "^15.7.2",
     "react": "^16.10.1",
